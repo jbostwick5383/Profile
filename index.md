@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jeff Bostwick's Profile
 
 You can use the [editor on GitHub](https://github.com/jbostwick5383/Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
